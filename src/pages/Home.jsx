@@ -1,20 +1,20 @@
 import { useState, useEffect } from "react";
-import heroAthlete   from '../images/gym2.jpg';
-import gymTraining   from '../Images/gymTraining.avif';
-import exChest1      from '../images/exChest1.avif';
-import exBack1       from '../images/exback1.avif';
-import exLegs1       from '../images/legs.avif';
-import exShoulders1  from '../images/shoulder.avif';
-import exArms1       from '../images/arm.avif';
-import exAbs1        from '../images/abs.avif';
-import dietImg       from '../images/deit.avif';
-import gymImg        from '../images/gym.avif';
-import trainer1      from '../images/trainer1.avif';
-import trainer2      from '../images/sara.avif';
-import trainer3      from '../images/trainer3.avif';
-import transform1    from '../images/trans1.avif';
-import transform2    from '../images/trans2.avif';
-import transform3    from '../images/trans3.avif';
+import heroAthlete   from '../Images/gym2.jpg';
+import gymTraining   from '../Images/newimggym.avif';
+import exChest1      from '../Images/exChest1.avif';
+import exBack1       from '../Images/exback1.avif';
+import exLegs1       from '../Images/legs.avif';
+import exShoulders1  from '../Images/shoulder.avif';
+import exArms1       from '../Images/arm.avif';
+import exAbs1        from '../Images/abs.avif';
+import dietImg       from '../Images/deit.avif';
+import gymImg        from '../Images/gym.avif';
+import trainer1      from '../Images/trainer1.avif';
+import trainer2      from '../Images/sara.avif';
+import trainer3      from '../Images/trainer3.avif';
+import transform1    from '../Images/trans1.avif';
+import transform2    from '../Images/trans2.avif';
+import transform3    from '../Images/trans3.avif';
 
 export default function Home({ navigate }) {
   // ── Hamburger menu state ──
