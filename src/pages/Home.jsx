@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import heroAthlete   from '../Images/gym2.jpg';
-import gymTraining   from '../images/gymTraining.avif';
+import gymTraining   from '../images/gym.avif';
 import exChest1      from '../images/exChest1.avif';
 import exBack1       from '../images/exback1.avif';
 import exLegs1       from '../images/legs.avif';
